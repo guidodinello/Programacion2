@@ -1,0 +1,281 @@
+# Implementar structs, crearCadena, liberarCadena, inicioCadena
+# Estas funciones siempre son llamadas por principal.cpp
+reiniciar
+# Implementar esVaciaCadena, esFinalCadena, infoCadena, siguiente, insertarAlFinal
+esVaciaCadena
+esFinalCadena
+insertarAlFinal (1,2.1)
+esFinalCadena
+esVaciaCadena
+inicioCadena
+esFinalCadena
+infoCadena
+insertarAlFinal (3,0.3)
+esFinalCadena
+infoCadena
+siguiente
+esFinalCadena
+infoCadena
+insertarAlFinal (2,1.2)
+infoCadena
+siguiente
+infoCadena
+inicioCadena
+infoCadena
+siguiente
+infoCadena
+siguiente
+infoCadena
+insertarAlFinal (9,1.2)
+insertarAlFinal (8,1.2)
+insertarAlFinal (7,1.2)
+insertarAlFinal (6,1.2)
+insertarAlFinal (5,1.2)
+insertarAlFinal (4,1.2)
+siguiente
+infoCadena
+siguiente
+siguiente
+siguiente
+siguiente
+esFinalCadena
+siguiente
+esFinalCadena
+infoCadena
+inicioCadena
+infoCadena
+reiniciar
+# Implmentar insertarAntes
+insertarAlFinal (5,2.8)
+inicioCadena
+insertarAntes (3,6.7)
+infoCadena
+inicioCadena
+infoCadena
+siguiente
+infoCadena
+insertarAntes (4,3.1)
+infoCadena
+inicioCadena
+infoCadena
+siguiente
+infoCadena
+insertarAntes (8,2.9)
+infoCadena
+inicioCadena
+infoCadena
+insertarAntes (1,7.2)
+infoCadena
+inicioCadena
+infoCadena
+siguiente
+infoCadena
+siguiente
+infoCadena
+siguiente
+infoCadena
+siguiente
+infoCadena
+reiniciar
+# Implementar finalCadena, anterior
+insertarAlFinal (10,2.1)
+finalCadena
+infoCadena
+insertarAlFinal (9,2.1)
+insertarAlFinal (8,2.1)
+insertarAlFinal (7,2.1)
+insertarAlFinal (6,2.1)
+insertarAlFinal (5,2.1)
+insertarAlFinal (4,2.1)
+finalCadena
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+reiniciar
+# Implementar esInicioCadena esLocalizador
+esInicioCadena
+esFinalCadena
+insertarAlFinal (10,2.1)
+esInicioCadena
+esFinalCadena
+inicioCadena
+esInicioCadena
+esFinalCadena
+finalCadena
+esInicioCadena
+esFinalCadena
+insertarAlFinal (9,2.1)
+esInicioCadena
+esFinalCadena
+finalCadena
+esInicioCadena
+esFinalCadena
+insertarAlFinal (8,2.1)
+esInicioCadena
+esFinalCadena
+inicioCadena
+esInicioCadena
+esFinalCadena
+anterior
+esLocalizador
+inicioCadena
+esLocalizador
+esInicioCadena
+esFinalCadena
+siguiente
+esLocalizador
+esInicioCadena
+esFinalCadena
+siguiente
+esLocalizador
+esInicioCadena
+esFinalCadena
+siguiente
+esLocalizador
+reiniciar
+# Implmentar removerDeCadena
+insertarAlFinal (6,2.1)
+insertarAlFinal (7,2.1)
+insertarAlFinal (8,2.1)
+insertarAlFinal (9,2.1)
+insertarAlFinal (10,2.1)
+inicioCadena
+siguiente
+siguiente
+removerDeCadena
+inicioCadena
+siguiente
+infoCadena
+siguiente
+infoCadena
+inicioCadena
+removerDeCadena
+inicioCadena
+infoCadena
+finalCadena
+removerDeCadena
+finalCadena
+infoCadena
+removerDeCadena
+finalCadena
+infoCadena
+inicioCadena
+infoCadena
+esVaciaCadena
+removerDeCadena
+esVaciaCadena
+inicioCadena
+insertarAlFinal (6,2.1)
+esVaciaCadena
+inicioCadena
+infoCadena
+siguiente
+esLocalizador
+finalCadena
+infoCadena
+anterior
+esLocalizador
+reiniciar
+# Implementar kesimo
+kesimo 0
+kesimo 1
+insertarAlFinal (3,6.8)
+kesimo 0
+kesimo 1
+infoCadena
+kesimo 2
+finalCadena
+insertarAlFinal (5,3.4)
+insertarAlFinal (8,9.4)
+insertarAlFinal (9,2.6)
+kesimo 1
+infoCadena
+kesimo 2
+infoCadena
+kesimo 4
+infoCadena
+kesimo 5
+reiniciar
+# Implementar localizadorEnCadena, precedeEnCadena
+localizadorEnCadena
+insertarAlFinal (5,3.2)
+localizadorEnCadena
+finalCadena
+localizadorEnCadena
+siguiente
+localizadorEnCadena
+precedeEnCadena 1
+finalCadena
+precedeEnCadena 1
+precedeEnCadena 0
+precedeEnCadena 2
+insertarAlFinal (5,3.4) 
+insertarAlFinal (8,9.4) 
+insertarAlFinal (9,2.6)
+precedeEnCadena 1
+precedeEnCadena 0
+precedeEnCadena 2
+siguiente
+precedeEnCadena 1
+precedeEnCadena 2
+precedeEnCadena 3
+finalCadena
+precedeEnCadena 4
+precedeEnCadena 5
+anterior
+precedeEnCadena 4
+precedeEnCadena 3
+reiniciar
+# Implementar siguienteClave, anteriorClave
+siguienteClave 5
+insertarAlFinal (5,3.4) 
+insertarAlFinal (8,9.4) 
+insertarAlFinal (6,2.6)
+inicioCadena
+siguienteClave 5
+infoCadena
+siguienteClave 8
+infoCadena
+inicioCadena
+siguienteClave 6
+infoCadena
+siguienteClave 7
+esLocalizador
+finalCadena
+insertarAlFinal (5,-3.2)
+insertarAlFinal (8,-9.2)
+insertarAlFinal (6,-2.4)
+inicioCadena
+siguiente
+siguienteClave 5
+infoCadena
+inicioCadena
+siguienteClave 6
+infoCadena
+siguienteClave 6
+infoCadena
+siguiente
+siguienteClave 6
+infoCadena
+finalCadena
+anteriorClave 6
+infoCadena
+anteriorClave 8
+infoCadena
+anteriorClave 6
+infoCadena
+anteriorClave 5
+infoCadena
+anteriorClave 6
+esLocalizador
+Fin

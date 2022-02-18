@@ -1,0 +1,17 @@
+# 
+insertarEnColCadenas (1,0) 1
+insertarEnColCadenas (1,1) 1
+removerDeColCadenas 1 1
+estaEnColCadenas 1 1
+infoEnColCadenas 1 1
+insertarEnAvl 10
+arregloAAvl 5 1 2 3 4 5
+enOrdenAvl
+avlMin 4
+avlABinario
+singleton 20
+unionDeConjuntos 3 10 20 30
+diferenciaDeConjuntos 2 20 40
+interseccionDeConjuntos 2 30 50
+arregloAConjunto 5 1 2 3 4 5
+Fin

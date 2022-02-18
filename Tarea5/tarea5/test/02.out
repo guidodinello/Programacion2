@@ -1,0 +1,18 @@
+1>#  Implementar infoEnColCadenas, removerDeColCadenas del módulo colCadenas.
+2>Se insertó 0 en la cadena 1.
+3>Se insertó 8 en la cadena 0.
+4>Se insertó 5 en la cadena 1.
+5>Se insertó 3 en la cadena 9.
+6>La primera aparición de 0 en la cadena 1 es (0,2.00)
+7>La primera aparición de 8 en la cadena 0 es (8,6.00)
+8>La primera aparición de 5 en la cadena 1 es (5,1.00)
+9>La primera aparición de 3 en la cadena 9 es (3,7.00)
+10>Se insertó 0 en la cadena 1.
+11>La primera aparición de 0 en la cadena 1 es (0,3.00)
+12>Se removió la primera aparición de 0 de la cadena 1.
+13>La primera aparición de 0 en la cadena 1 es (0,2.00)
+14>La primera aparición de 5 en la cadena 1 es (5,1.00)
+15>Se insertó 5 en la cadena 1.
+16>Se removió la primera aparición de 5 de la cadena 1.
+17>La primera aparición de 5 en la cadena 1 es (5,1.00)
+18>Fin.

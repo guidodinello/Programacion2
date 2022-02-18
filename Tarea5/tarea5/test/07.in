@@ -1,0 +1,43 @@
+# Implementar operaciones de conjunto e interseccionDeConjuntos de usoTads
+estaVacioConjunto
+cardinalidad
+iteradorDeConjunto
+perteneceAConjunto 5
+singleton 5
+minimo
+maximo
+estaVacioConjunto
+cardinalidad
+iteradorDeConjunto
+perteneceAConjunto 5
+arregloAConjunto 6 2 3 6 7 8 9
+minimo
+maximo
+cardinalidad
+iteradorDeConjunto
+unionDeConjuntos 3 1 4 5
+cardinalidad
+iteradorDeConjunto
+unionDeConjuntos 3 0 4 10
+minimo
+maximo
+cardinalidad
+iteradorDeConjunto
+diferenciaDeConjuntos  6 2 3 6 7 8 11
+minimo
+maximo
+cardinalidad
+iteradorDeConjunto
+interseccionDeConjuntos  6 2 3 6 7 8 11
+cardinalidad
+iteradorDeConjunto
+diferenciaDeConjuntos  6 2 3 6 7 8 11
+cardinalidad
+iteradorDeConjunto
+interseccionDeConjuntos  6 2 3 6 7 8 11
+cardinalidad
+iteradorDeConjunto
+unionDeConjuntos 3 1 4 5
+cardinalidad
+iteradorDeConjunto
+Fin

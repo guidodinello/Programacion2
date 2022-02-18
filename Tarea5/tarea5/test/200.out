@@ -1,0 +1,281 @@
+1>#  Implementar structs, crearCadena, liberarCadena, inicioCadena.
+2>#  Estas funciones siempre son llamadas por principal.cpp.
+3>Estructuras reiniciadas.
+4>#  Implementar esVaciaCadena, esFinalCadena, infoCadena, siguiente, insertarAlFinal.
+5>cad vacia.
+6>loc no es final de cad.
+7>Insertado al final.
+8>loc no es final de cad.
+9>cad no vacia.
+10>loc al inicio.
+11>loc es final de cad.
+12>(1,2.10)
+13>Insertado al final.
+14>loc no es final de cad.
+15>(1,2.10)
+16>loc al siguiente.
+17>loc es final de cad.
+18>(3,0.30)
+19>Insertado al final.
+20>(3,0.30)
+21>loc al siguiente.
+22>(2,1.20)
+23>loc al inicio.
+24>(1,2.10)
+25>loc al siguiente.
+26>(3,0.30)
+27>loc al siguiente.
+28>(2,1.20)
+29>Insertado al final.
+30>Insertado al final.
+31>Insertado al final.
+32>Insertado al final.
+33>Insertado al final.
+34>Insertado al final.
+35>loc al siguiente.
+36>(9,1.20)
+37>loc al siguiente.
+38>loc al siguiente.
+39>loc al siguiente.
+40>loc al siguiente.
+41>loc no es final de cad.
+42>loc al siguiente.
+43>loc es final de cad.
+44>(4,1.20)
+45>loc al inicio.
+46>(1,2.10)
+47>Estructuras reiniciadas.
+48>#  Implmentar insertarAntes.
+49>Insertado al final.
+50>loc al inicio.
+51>Insertado antes de loc.
+52>(5,2.80)
+53>loc al inicio.
+54>(3,6.70)
+55>loc al siguiente.
+56>(5,2.80)
+57>Insertado antes de loc.
+58>(5,2.80)
+59>loc al inicio.
+60>(3,6.70)
+61>loc al siguiente.
+62>(4,3.10)
+63>Insertado antes de loc.
+64>(4,3.10)
+65>loc al inicio.
+66>(3,6.70)
+67>Insertado antes de loc.
+68>(3,6.70)
+69>loc al inicio.
+70>(1,7.20)
+71>loc al siguiente.
+72>(3,6.70)
+73>loc al siguiente.
+74>(8,2.90)
+75>loc al siguiente.
+76>(4,3.10)
+77>loc al siguiente.
+78>(5,2.80)
+79>Estructuras reiniciadas.
+80>#  Implementar finalCadena, anterior.
+81>Insertado al final.
+82>loc al final.
+83>(10,2.10)
+84>Insertado al final.
+85>Insertado al final.
+86>Insertado al final.
+87>Insertado al final.
+88>Insertado al final.
+89>Insertado al final.
+90>loc al final.
+91>(4,2.10)
+92>loc al anterior.
+93>(5,2.10)
+94>loc al anterior.
+95>(6,2.10)
+96>loc al anterior.
+97>(7,2.10)
+98>loc al anterior.
+99>(8,2.10)
+100>loc al anterior.
+101>(9,2.10)
+102>loc al anterior.
+103>(10,2.10)
+104>Estructuras reiniciadas.
+105>#  Implementar esInicioCadena esLocalizador.
+106>loc no es incio de cad.
+107>loc no es final de cad.
+108>Insertado al final.
+109>loc no es incio de cad.
+110>loc no es final de cad.
+111>loc al inicio.
+112>loc es incio de cad.
+113>loc es final de cad.
+114>loc al final.
+115>loc es incio de cad.
+116>loc es final de cad.
+117>Insertado al final.
+118>loc es incio de cad.
+119>loc no es final de cad.
+120>loc al final.
+121>loc no es incio de cad.
+122>loc es final de cad.
+123>Insertado al final.
+124>loc no es incio de cad.
+125>loc no es final de cad.
+126>loc al inicio.
+127>loc es incio de cad.
+128>loc no es final de cad.
+129>loc al anterior.
+130>loc no válido.
+131>loc al inicio.
+132>loc válido.
+133>loc es incio de cad.
+134>loc no es final de cad.
+135>loc al siguiente.
+136>loc válido.
+137>loc no es incio de cad.
+138>loc no es final de cad.
+139>loc al siguiente.
+140>loc válido.
+141>loc no es incio de cad.
+142>loc es final de cad.
+143>loc al siguiente.
+144>loc no válido.
+145>Estructuras reiniciadas.
+146>#  Implmentar removerDeCadena.
+147>Insertado al final.
+148>Insertado al final.
+149>Insertado al final.
+150>Insertado al final.
+151>Insertado al final.
+152>loc al inicio.
+153>loc al siguiente.
+154>loc al siguiente.
+155>Removido.
+156>loc al inicio.
+157>loc al siguiente.
+158>(7,2.10)
+159>loc al siguiente.
+160>(9,2.10)
+161>loc al inicio.
+162>Removido.
+163>loc al inicio.
+164>(7,2.10)
+165>loc al final.
+166>Removido.
+167>loc al final.
+168>(9,2.10)
+169>Removido.
+170>loc al final.
+171>(7,2.10)
+172>loc al inicio.
+173>(7,2.10)
+174>cad no vacia.
+175>Removido.
+176>cad vacia.
+177>loc al inicio.
+178>Insertado al final.
+179>cad no vacia.
+180>loc al inicio.
+181>(6,2.10)
+182>loc al siguiente.
+183>loc no válido.
+184>loc al final.
+185>(6,2.10)
+186>loc al anterior.
+187>loc no válido.
+188>Estructuras reiniciadas.
+189>#  Implementar kesimo.
+190>loc quedó no válido.
+191>loc quedó no válido.
+192>Insertado al final.
+193>loc quedó no válido.
+194>loc en la posición 1.
+195>(3,6.80)
+196>loc quedó no válido.
+197>loc al final.
+198>Insertado al final.
+199>Insertado al final.
+200>Insertado al final.
+201>loc en la posición 1.
+202>(3,6.80)
+203>loc en la posición 2.
+204>(5,3.40)
+205>loc en la posición 4.
+206>(9,2.60)
+207>loc quedó no válido.
+208>Estructuras reiniciadas.
+209>#  Implementar localizadorEnCadena, precedeEnCadena.
+210>loc no pertenece a cad.
+211>Insertado al final.
+212>loc no pertenece a cad.
+213>loc al final.
+214>loc pertenece a cad.
+215>loc al siguiente.
+216>loc no pertenece a cad.
+217>loc1 no precede a loc.
+218>loc al final.
+219>loc1 precede a loc.
+220>loc1 no precede a loc.
+221>loc1 no precede a loc.
+222>Insertado al final.
+223>Insertado al final.
+224>Insertado al final.
+225>loc1 precede a loc.
+226>loc1 no precede a loc.
+227>loc1 no precede a loc.
+228>loc al siguiente.
+229>loc1 precede a loc.
+230>loc1 precede a loc.
+231>loc1 no precede a loc.
+232>loc al final.
+233>loc1 precede a loc.
+234>loc1 no precede a loc.
+235>loc al anterior.
+236>loc1 no precede a loc.
+237>loc1 precede a loc.
+238>Estructuras reiniciadas.
+239>#  Implementar siguienteClave, anteriorClave.
+240>loc quedó no válido.
+241>Insertado al final.
+242>Insertado al final.
+243>Insertado al final.
+244>loc al inicio.
+245>loc avanzó buscando 5.
+246>(5,3.40)
+247>loc avanzó buscando 8.
+248>(8,9.40)
+249>loc al inicio.
+250>loc avanzó buscando 6.
+251>(6,2.60)
+252>loc quedó no válido.
+253>loc no válido.
+254>loc al final.
+255>Insertado al final.
+256>Insertado al final.
+257>Insertado al final.
+258>loc al inicio.
+259>loc al siguiente.
+260>loc avanzó buscando 5.
+261>(5,-3.20)
+262>loc al inicio.
+263>loc avanzó buscando 6.
+264>(6,2.60)
+265>loc avanzó buscando 6.
+266>(6,2.60)
+267>loc al siguiente.
+268>loc avanzó buscando 6.
+269>(6,-2.40)
+270>loc al final.
+271>loc retrocedió buscando 6.
+272>(6,-2.40)
+273>loc retrocedió buscando 8.
+274>(8,-9.20)
+275>loc retrocedió buscando 6.
+276>(6,2.60)
+277>loc retrocedió buscando 5.
+278>(5,3.40)
+279>loc quedó no válido.
+280>loc no válido.
+281>Fin.

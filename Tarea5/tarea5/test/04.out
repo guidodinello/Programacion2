@@ -1,0 +1,54 @@
+1>#  Prueba de insertarEnAvl, alturaDeAvl, cantidadEnAvl, enOrdenAvl.
+2>Altura de avl: 0.
+3>Cantidad en avl: 0.
+4>No hay elementos en el avl.
+5>Insertado.
+6>Altura de avl: 1.
+7>Cantidad en avl: 1.
+8>40 
+9>Insertado.
+10>Insertado.
+11>Altura de avl: 2.
+12>60
+13>40
+14>80
+15>Insertado.
+16>Insertado.
+17>Altura de avl: 3.
+18>Cantidad en avl: 5.
+19>40 60 65 70 80 
+20>70
+21>Insertado.
+22>Altura de avl: 3.
+23>65
+24>60
+25>70
+26>Insertado.
+27>Insertado.
+28>Altura de avl: 4.
+29>Insertado.
+30>Insertado.
+31>Altura de avl: 4.
+32>60
+33>30
+34>65
+35>Insertado.
+36>Insertado.
+37>Altura de avl: 4.
+38>60
+39>35
+40>Insertado.
+41>Altura de avl: 4.
+42>Insertado.
+43>Insertado.
+44>Insertado.
+45>Insertado.
+46>Altura de avl: 5.
+47>Insertado.
+48>Altura de avl: 5.
+49>Cantidad en avl: 18.
+50>10 20 30 32 35 40 45 50 52 55 57 58 60 61 63 65 70 80 
+51>50
+52>35
+53>60
+54>Fin.

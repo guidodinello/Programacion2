@@ -1,0 +1,18 @@
+# Implementar infoEnColCadenas, removerDeColCadenas del módulo colCadenas
+insertarEnColCadenas (0,2.0) 1
+insertarEnColCadenas (8,6.0) 0
+insertarEnColCadenas (5,1.0) 1
+insertarEnColCadenas (3,7.0) 9
+infoEnColCadenas 0 1
+infoEnColCadenas 8 0
+infoEnColCadenas 5 1
+infoEnColCadenas 3 9 
+insertarEnColCadenas (0,3.0) 1
+infoEnColCadenas 0 1
+removerDeColCadenas 0 1
+infoEnColCadenas 0 1
+infoEnColCadenas 5 1
+insertarEnColCadenas (5,1.0) 1
+removerDeColCadenas 5 1
+infoEnColCadenas 5 1
+Fin

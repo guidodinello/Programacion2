@@ -1,0 +1,33 @@
+# Implementar estaEnColCadenas, insertarEnColCadenas del módulo colCadenas
+estaEnColCadenas 0 1
+insertarEnColCadenas (0,2.0) 1
+estaEnColCadenas 0 0
+estaEnColCadenas 0 1
+estaEnColCadenas 0 2
+estaEnColCadenas 1 1
+estaEnColCadenas 2 1
+insertarEnColCadenas (8,6.0) 0
+insertarEnColCadenas (5,1.0) 1
+insertarEnColCadenas (3,7.0) 9
+estaEnColCadenas 0 1
+estaEnColCadenas 3 1
+estaEnColCadenas 5 1
+estaEnColCadenas 0 0
+estaEnColCadenas 8 0
+estaEnColCadenas 0 9
+estaEnColCadenas 3 9
+insertarEnColCadenas (40,3.0) 5
+insertarEnColCadenas (41,3.0) 5
+insertarEnColCadenas (42,3.0) 5
+insertarEnColCadenas (43,3.0) 5
+insertarEnColCadenas (44,3.0) 5
+insertarEnColCadenas (45,3.0) 5
+insertarEnColCadenas (46,3.0) 5
+insertarEnColCadenas (47,3.0) 5
+insertarEnColCadenas (48,3.0) 5
+insertarEnColCadenas (49,3.0) 5
+insertarEnColCadenas (50,3.0) 5
+insertarEnColCadenas (51,3.0) 5
+estaEnColCadenas 40 5
+estaEnColCadenas 51 5
+Fin

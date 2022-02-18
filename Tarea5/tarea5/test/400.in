@@ -1,0 +1,67 @@
+# Implementar structs, las operaciones de crear y liberar, cantidadEnIterador
+cantidadEnIterador
+# comando que reinicia las estructruras (no es reiniciarIterador)
+reiniciar
+agregarAIterador 3
+cantidadEnIterador
+reiniciar
+agregarAIterador 3
+agregarAIterador 3
+cantidadEnIterador
+reiniciar
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+cantidadEnIterador
+reiniciar
+# Implementar enAlguno
+enAlguno 0
+enAlguno 1 4
+enAlguno 2 4 8
+enAlguno 5 1 3 7 8 9
+reiniciar
+agregarAIterador 2
+enAlguno 0
+enAlguno 1 4
+enAlguno 2 4 8
+enAlguno 5 1 3 7 8 9
+enAlguno 1 2
+reiniciar
+agregarAIterador 4
+agregarAIterador 7
+agregarAIterador 9
+enAlguno 0
+enAlguno 1 4
+enAlguno 2 4 8
+enAlguno 5 1 3 7 8 9
+enAlguno 6 1 3 7 8 9 11
+reiniciar
+# Implementar soloEnA. 
+# El iterador 'a' es el parámetro 'it'. 
+# El iterador 'b' es el que se lee desde la entrada estándar. 
+soloEnA 0
+soloEnA 1 4
+soloEnA 2 4 8
+soloEnA 5 1 3 7 8 9
+reiniciar
+agregarAIterador 2
+soloEnA 0
+soloEnA 1 4
+soloEnA 2 4 8
+soloEnA 5 1 3 7 8 9
+soloEnA 1 2
+reiniciar
+agregarAIterador 4
+agregarAIterador 7
+agregarAIterador 9
+soloEnA 0
+soloEnA 1 4
+soloEnA 2 4 8
+soloEnA 5 1 3 7 8 9
+soloEnA 6 1 4 7 8 9 11
+Fin

@@ -1,0 +1,54 @@
+# Prueba de insertarEnAvl, alturaDeAvl, cantidadEnAvl, enOrdenAvl
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+insertarEnAvl 40
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+insertarEnAvl 60
+insertarEnAvl 80
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 70
+insertarEnAvl 65
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+derAvl
+insertarEnAvl 63
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 20
+insertarEnAvl 30
+alturaDeAvl
+insertarEnAvl 61
+insertarEnAvl 50
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 35
+insertarEnAvl 32
+alturaDeAvl
+raizAvl
+izqAvl
+insertarEnAvl 55
+alturaDeAvl
+insertarEnAvl 10
+insertarEnAvl 45
+insertarEnAvl 57
+insertarEnAvl 52
+alturaDeAvl
+insertarEnAvl 58
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+raizAvl
+izqAvl
+derAvl
+Fin

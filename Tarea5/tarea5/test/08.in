@@ -1,0 +1,51 @@
+# Prueba de unión, diferencia e intersección entre conjuntos vacíos y singleton 
+# vacío - vacío
+unionDeConjuntos 0
+iteradorDeConjunto
+diferenciaDeConjuntos 0
+iteradorDeConjunto
+interseccionDeConjuntos 0
+iteradorDeConjunto
+# vacío - singleton
+diferenciaDeConjuntos 1 3
+iteradorDeConjunto
+interseccionDeConjuntos 1 4
+iteradorDeConjunto
+unionDeConjuntos 1 5
+iteradorDeConjunto
+# singleton - vacío 
+unionDeConjuntos 0
+iteradorDeConjunto
+diferenciaDeConjuntos 0
+iteradorDeConjunto
+interseccionDeConjuntos 0
+iteradorDeConjunto
+# para volver a tener un singleton
+unionDeConjuntos 1 6
+# singleton - singleton
+unionDeConjuntos 1 6
+iteradorDeConjunto
+diferenciaDeConjuntos 1 3
+iteradorDeConjunto
+interseccionDeConjuntos 1 6
+iteradorDeConjunto
+diferenciaDeConjuntos 1 6
+iteradorDeConjunto
+unionDeConjuntos 1 6
+interseccionDeConjuntos 1 3
+iteradorDeConjunto
+unionDeConjuntos 1 6
+unionDeConjuntos 1 4
+iteradorDeConjunto
+# para volver a tener un singleton
+interseccionDeConjuntos 1 6
+iteradorDeConjunto
+diferenciaDeConjuntos 1 8
+iteradorDeConjunto
+interseccionDeConjuntos 1 8
+iteradorDeConjunto
+# para volver a tener un singleton
+unionDeConjuntos 1 6
+unionDeConjuntos 1 8
+iteradorDeConjunto
+Fin

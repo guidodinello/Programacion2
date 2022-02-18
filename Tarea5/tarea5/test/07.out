@@ -1,0 +1,43 @@
+1>#  Implementar operaciones de conjunto e interseccionDeConjuntos de usoTads.
+2>Vacio.
+3>0.
+4>No hay elementos en el conjunto.
+5>No pertenece.
+6>Creado el singleton.
+7>mínimo:  5.
+8>máximo:  5.
+9>No vacío.
+10>1.
+11>5 
+12>Pertenece.
+13>Arreglo a conjunto con 6 elementos.
+14>mínimo:  2.
+15>máximo:  9.
+16>6.
+17>2 3 6 7 8 9 
+18>Union.
+19>9.
+20>1 2 3 4 5 6 7 8 9 
+21>Union.
+22>mínimo:  0.
+23>máximo:  10.
+24>11.
+25>0 1 2 3 4 5 6 7 8 9 10 
+26>Diferencia.
+27>mínimo:  0.
+28>máximo:  10.
+29>6.
+30>0 1 4 5 9 10 
+31>Intersección.
+32>0.
+33>No hay elementos en el conjunto.
+34>Diferencia.
+35>0.
+36>No hay elementos en el conjunto.
+37>Intersección.
+38>0.
+39>No hay elementos en el conjunto.
+40>Union.
+41>3.
+42>1 4 5 
+43>Fin.

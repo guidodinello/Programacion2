@@ -1,0 +1,30 @@
+# Implementar estaVacioAvl, insertarEnAvl, buscarEnAvl, raizAvl, izqAvl y derAvl del modulo avl y avlABinario del módulo binario
+estaVacioAvl
+buscarEnAvl 1
+avlABinario
+insertarEnAvl 1
+avlABinario
+insertarEnAvl 2
+avlABinario
+insertarEnAvl 3
+insertarEnAvl 4
+estaVacioAvl
+buscarEnAvl 1
+buscarEnAvl 2
+buscarEnAvl 3
+buscarEnAvl 4
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 6
+avlABinario
+buscarEnAvl 2
+insertarEnAvl 9
+buscarEnAvl 2
+avlABinario
+insertarEnAvl 5
+avlABinario
+buscarEnAvl 4
+insertarEnAvl 7
+avlABinario
+Fin
