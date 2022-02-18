@@ -1,0 +1,19 @@
+# Prueba A
+imprimirBinario
+Fin
+insertarEnBinario (5,5.5)
+imprimirBinario
+buscarSubarbol 1
+esAvl
+cantidadBinario
+alturaBinario
+raiz
+mayor
+removerMayor
+agregarAIterador 5
+agregarAIterador 2
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+Fin

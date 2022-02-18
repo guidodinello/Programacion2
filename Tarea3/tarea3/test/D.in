@@ -1,0 +1,20 @@
+# Prueba D
+insertarEnBinario (11,11.11)
+insertarEnBinario (8,8.8)
+insertarEnBinario (12,12.12)
+esAvl
+insertarEnBinario (13,-13.13)
+insertarEnBinario (14,14.14)
+esAvl
+alturaBinario
+linealizacion
+sumaUltimosPositivos 3
+menores 12
+nivelEnBinario 2
+esCamino 3 (11,1.1) (12,1.1) (13,1.1)
+imprimirBinario
+mayor
+removerMayor
+removerDeBinario 11
+raiz
+Fin

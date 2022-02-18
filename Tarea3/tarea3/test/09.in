@@ -1,0 +1,44 @@
+# Prueba esAvl, insertarEnBinario, removerDeBinario, imprimirBinario, cantidadBinario, alturaBinario
+insertarEnBinario (10,10.10)
+esAvl
+insertarEnBinario (5,5.5)
+esAvl
+insertarEnBinario (20,20.20)
+esAvl
+esAvl
+insertarEnBinario (2,2.2)
+esAvl
+insertarEnBinario (7,7.7)
+esAvl
+removerDeBinario 7 
+insertarEnBinario (1,1.1)
+esAvl
+removerDeBinario 2 
+removerDeBinario 1 
+insertarEnBinario (7,7.7)
+insertarEnBinario (9,9.9)
+esAvl
+removerDeBinario 9 
+insertarEnBinario (6,6.6)
+esAvl
+insertarEnBinario (2,2.2)
+esAvl
+imprimirBinario
+cantidadBinario
+alturaBinario
+removerDeBinario 20 
+esAvl
+removerDeBinario 2 
+esAvl
+removerDeBinario 6 
+esAvl
+removerDeBinario 7 
+esAvl
+removerDeBinario 5 
+esAvl
+removerDeBinario 10 
+esAvl
+imprimirBinario
+cantidadBinario
+alturaBinario
+Fin

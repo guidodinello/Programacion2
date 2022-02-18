@@ -1,0 +1,22 @@
+# Prueba C
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+avanzarIterador
+estaDefinidaActual
+insertarEnBinario (2,2.2)
+insertarEnBinario (3,3.3)
+nivelEnBinario 3
+sumaUltimosPositivos 2
+izquierdo
+derecho
+imprimirBinario
+cantidadBinario
+esAvl
+mayor
+removerMayor
+cantidadBinario
+esAvl
+sumaUltimosPositivos 3
+Fin

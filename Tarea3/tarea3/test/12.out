@@ -1,0 +1,77 @@
+1>#  Prueba imprimirBinario, insertarEnBinario.
+2>Insertado.
+3>Insertado.
+4>Insertado.
+5>Insertado.
+6>Insertado.
+7>Insertado.
+8>Insertado.
+9>Insertado.
+10>Insertado.
+11>Insertado.
+12>Insertado.
+13>Insertado.
+14>Insertado.
+15>Insertado.
+16>Insertado.
+17>
+---(27,27.00)
+--(25,25.00)
+---(22,22.00)
+-(20,20.00)
+---(17,17.00)
+--(15,15.00)
+---(12,12.00)
+(10,10.00)
+---(9,9.00)
+--(7,7.00)
+---(6,6.00)
+-(5,5.00)
+---(3,3.00)
+--(2,2.00)
+---(1,1.00)
+18>NO es camino.
+19>NO es camino.
+20>NO es camino.
+21>Es camino.
+22>NO es camino.
+23>NO es camino.
+24>Es camino.
+25>Es camino.
+26>Es camino.
+27>NO es camino.
+28>NO es camino.
+29>Removido el mayor.
+30>
+--(25,25.00)
+---(22,22.00)
+-(20,20.00)
+---(17,17.00)
+--(15,15.00)
+---(12,12.00)
+(10,10.00)
+---(9,9.00)
+--(7,7.00)
+---(6,6.00)
+-(5,5.00)
+---(3,3.00)
+--(2,2.00)
+---(1,1.00)
+31>NO es camino.
+32>NO es camino.
+33>Es camino.
+34>Removido el mayor.
+35>NO es camino.
+36>Es camino.
+37>Removido el mayor.
+38>NO es camino.
+39>Es camino.
+40>Removido el mayor.
+41>NO es camino.
+42>Removido.
+43>NO es camino.
+44>NO es camino.
+45>Removido.
+46>NO es camino.
+47>Es camino.
+48>Fin.

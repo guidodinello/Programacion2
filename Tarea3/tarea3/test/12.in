@@ -1,0 +1,48 @@
+# Prueba imprimirBinario, insertarEnBinario
+insertarEnBinario (10,10.0)
+insertarEnBinario (5,5.0)
+insertarEnBinario (20,20.0)
+insertarEnBinario (25,25.0)
+insertarEnBinario (15,15.0)
+insertarEnBinario (7,7.0)
+insertarEnBinario (2,2.0)
+insertarEnBinario (1,1.0)
+insertarEnBinario (3,3.0)
+insertarEnBinario (6,6.0)
+insertarEnBinario (9,9.0)
+insertarEnBinario (12,12.0)
+insertarEnBinario (17,17.0)
+insertarEnBinario (22,22.0)
+insertarEnBinario (27,27.0)
+imprimirBinario
+esCamino 1 (10, 10.0)
+esCamino 2 (10, 10.0) (5, 5.0)
+esCamino 3 (10, 10.0) (5, 5.0) (7, 7.0)
+esCamino 4 (10, 10.0) (5, 5.0) (7, 7.0) (6, 6.0)
+esCamino 3 (5, 5.0) (7, 7.0) (6, 6.0)
+esCamino 4 (10, 10.0) (5, 5.0) (2, 7.0) (6, 6.0)
+esCamino 4 (10, 10.0) (5, 5.0) (2, 7.0) (1, 6.0)
+esCamino 4 (10, 10.0) (20, 5.0) (25, 7.0) (27, 6.0)
+esCamino 4 (10, 10.0) (20, 5.0) (25, 7.0) (22, 6.0)
+esCamino 3 (10, 10.0) (20, 5.0) (25, 7.0) 
+esCamino 2 (10, 10.0) (20, 5.0)  
+removerMayor
+imprimirBinario
+esCamino 4 (10, 10.0) (20, 5.0) (25, 7.0) (27, 6.0)
+esCamino 3 (10, 10.0) (20, 5.0) (25, 7.0) 
+esCamino 4 (10, 10.0) (20, 5.0) (25, 7.0) (22, 6.0)
+removerMayor
+esCamino 4 (10, 10.0) (20, 5.0) (25, 7.0) (22, 6.0)
+esCamino 3 (10, 10.0) (20, 5.0) (22, 6.0)
+removerMayor
+esCamino 3 (10, 10.0) (20, 5.0) (15, 6.0)
+esCamino 4 (10, 10.0) (20, 5.0) (15, 6.0) (17, 6.0)
+removerMayor
+esCamino 4 (10, 10.0) (17, 5.0) (15, 6.0) (12, 6.0)
+removerDeBinario 12
+esCamino 4 (10, 10.0) (17, 5.0) (15, 6.0) (12, 6.0)
+esCamino 3 (10, 10.0) (17, 5.0) (15, 6.0) 
+removerDeBinario 17
+esCamino 3 (10, 10.0) (17, 5.0) (15, 6.0) 
+esCamino 2 (10, 10.0) (15, 6.0) 
+Fin

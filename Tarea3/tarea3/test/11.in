@@ -1,0 +1,33 @@
+# Prueba menores, insertarEnBinario
+insertarEnBinario (10,10.0)
+insertarEnBinario (5,5.0)
+insertarEnBinario (20,20.0)
+insertarEnBinario (25,25.0)
+insertarEnBinario (15,15.0)
+insertarEnBinario (7,7.0)
+insertarEnBinario (2,2.0)
+insertarEnBinario (1,1.0)
+insertarEnBinario (3,3.0)
+insertarEnBinario (6,6.0)
+insertarEnBinario (9,9.0)
+insertarEnBinario (12,12.0)
+insertarEnBinario (17,17.0)
+insertarEnBinario (22,22.0)
+insertarEnBinario (27,27.0)
+menores 1.0 
+menores 2.0 
+menores 3.0 
+menores 5.0 
+menores 6.0 
+menores 7.0 
+menores 9.0 
+menores 10.0 
+menores 12.0
+menores 15.0 
+menores 17.0 
+menores 20.0 
+menores 22.0 
+menores 25.0 
+menores 27.0 
+menores 30.0 
+Fin

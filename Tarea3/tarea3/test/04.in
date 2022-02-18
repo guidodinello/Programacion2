@@ -1,0 +1,22 @@
+# Prueba de mayor, removerMayor, removerDeBinario
+insertarEnBinario (10,10.10)
+insertarEnBinario (9,9.9)
+insertarEnBinario (11,11.11)
+insertarEnBinario (8,8.8)
+insertarEnBinario (12,12.12)
+imprimirBinario
+mayor
+removerMayor
+mayor
+imprimirBinario
+buscarSubarbol 10
+buscarSubarbol 11
+buscarSubarbol 9
+removerDeBinario 9
+imprimirBinario
+removerMayor
+imprimirBinario
+removerDeBinario 10
+removerDeBinario 8
+imprimirBinario
+Fin

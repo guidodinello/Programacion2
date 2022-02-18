@@ -1,0 +1,16 @@
+# Prueba B
+insertarEnBinario (16,16.16)
+insertarEnBinario (8,8.8)
+insertarEnBinario (24,24.24)
+insertarEnBinario (4,4.4)
+insertarEnBinario (12,12.12)
+nivelEnBinario 0
+nivelEnBinario 1
+nivelEnBinario 2
+menores 0
+menores 16
+esAvl
+removerDeBinario 4
+esCamino 3 (16,1) (24,1) (28,1)
+esCamino 2 (16,1) (24,1)
+Fin

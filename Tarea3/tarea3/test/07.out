@@ -1,0 +1,19 @@
+1>#  Prueba nivelEnBinario y esCamino.
+2>Insertado.
+3>Insertado.
+4>Insertado.
+5>Insertado.
+6>Insertado.
+7>Insertado.
+8>Insertado.
+9>l = 0.
+10>(16,16.16)
+11>(8,8.80)(24,24.24)
+12>(4,4.40)(12,12.12)(20,20.20)(28,28.28)
+13>
+14>NO es camino.
+15>NO es camino.
+16>Es camino.
+17>Es camino.
+18>NO es camino.
+19>Fin.

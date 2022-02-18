@@ -1,0 +1,50 @@
+1>#  Prueba esAvl, insertarEnBinario, removerDeBinario, imprimirBinario, cantidadBinario, alturaBinario.
+2>Insertado.
+3>AVL.
+4>Insertado.
+5>AVL.
+6>Insertado.
+7>AVL.
+8>AVL.
+9>Insertado.
+10>AVL.
+11>Insertado.
+12>AVL.
+13>Removido.
+14>Insertado.
+15>No AVL.
+16>Removido.
+17>Removido.
+18>Insertado.
+19>Insertado.
+20>No AVL.
+21>Removido.
+22>Insertado.
+23>No AVL.
+24>Insertado.
+25>No AVL.
+26>
+-(20,20.20)
+(10,10.10)
+--(7,7.70)
+---(6,6.60)
+-(5,5.50)
+--(2,2.20)
+27>6.
+28>4.
+29>Removido.
+30>No AVL.
+31>Removido.
+32>No AVL.
+33>Removido.
+34>No AVL.
+35>Removido.
+36>AVL.
+37>Removido.
+38>AVL.
+39>Removido.
+40>AVL.
+41>
+42>0.
+43>0.
+44>Fin.

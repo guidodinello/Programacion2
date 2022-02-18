@@ -1,0 +1,17 @@
+# Prueba de esVacioBinario, insertarEnBinario, raiz, izquierdo, derecho, buscarSubarbol
+buscarSubarbol 1
+esVacioBinario
+insertarEnBinario (1,1.1)
+esVacioBinario
+raiz
+buscarSubarbol 2
+buscarSubarbol 1
+insertarEnBinario (2,2.2)
+insertarEnBinario (3,3.3)
+izquierdo
+derecho
+buscarSubarbol 4
+buscarSubarbol 1
+buscarSubarbol 2
+buscarSubarbol 3
+Fin

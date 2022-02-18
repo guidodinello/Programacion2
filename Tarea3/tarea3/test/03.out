@@ -1,0 +1,24 @@
+1>#  prueba de imprimirBinario.
+2>
+3>Insertado.
+4>
+(5,5.50)
+5>Insertado.
+6>Insertado.
+7>
+-(6,6.60)
+(5,5.50)
+-(3,3.30)
+8>Insertado.
+9>Insertado.
+10>Insertado.
+11>Insertado.
+12>
+---(9,9.90)
+----(8,8.80)
+--(7,7.70)
+-(6,6.60)
+(5,5.50)
+-(3,3.30)
+--(2,2.20)
+13>Fin.

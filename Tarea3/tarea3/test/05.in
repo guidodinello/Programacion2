@@ -1,0 +1,19 @@
+# Prueba cantidadBinario, esAvl, alturaBinario
+insertarEnBinario (10,10.10)
+insertarEnBinario (9,9.9)
+insertarEnBinario (11,11.11)
+insertarEnBinario (8,8.8)
+insertarEnBinario (12,12.12)
+imprimirBinario
+cantidadBinario
+esAvl
+insertarEnBinario (13,13.13)
+imprimirBinario
+esAvl
+cantidadBinario
+alturaBinario
+removerMayor
+imprimirBinario
+cantidadBinario
+alturaBinario
+Fin

@@ -1,0 +1,13 @@
+# prueba de imprimirBinario
+imprimirBinario
+insertarEnBinario (5,5.5)
+imprimirBinario
+insertarEnBinario (3,3.3)
+insertarEnBinario (6,6.6)
+imprimirBinario
+insertarEnBinario (2,2.2)
+insertarEnBinario (7,7.7)
+insertarEnBinario (9,9.9)
+insertarEnBinario (8,8.8)
+imprimirBinario
+Fin

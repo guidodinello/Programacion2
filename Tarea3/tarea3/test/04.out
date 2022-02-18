@@ -1,0 +1,36 @@
+1>#  Prueba de mayor, removerMayor, removerDeBinario.
+2>Insertado.
+3>Insertado.
+4>Insertado.
+5>Insertado.
+6>Insertado.
+7>
+--(12,12.12)
+-(11,11.11)
+(10,10.10)
+-(9,9.90)
+--(8,8.80)
+8>(12,12.12)
+9>Removido el mayor.
+10>(11,11.11)
+11>
+-(11,11.11)
+(10,10.10)
+-(9,9.90)
+--(8,8.80)
+12>(10,10.10)
+13>(11,11.11)
+14>(9,9.90)
+15>Removido.
+16>
+-(11,11.11)
+(10,10.10)
+-(8,8.80)
+17>Removido el mayor.
+18>
+(10,10.10)
+-(8,8.80)
+19>Removido.
+20>Removido.
+21>
+22>Fin.
