@@ -1,0 +1,25 @@
+# Implementar finalCadena, anterior
+insertarAlFinal (10,2.1)
+finalCadena
+infoCadena
+insertarAlFinal (9,2.1)
+insertarAlFinal (8,2.1)
+insertarAlFinal (7,2.1)
+insertarAlFinal (6,2.1)
+insertarAlFinal (5,2.1)
+insertarAlFinal (4,2.1)
+finalCadena
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+anterior
+infoCadena
+Fin

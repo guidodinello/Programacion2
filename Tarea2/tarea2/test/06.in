@@ -1,0 +1,43 @@
+# Implmentar removerDeCadena
+insertarAlFinal (6,2.1)
+insertarAlFinal (7,2.1)
+insertarAlFinal (8,2.1)
+insertarAlFinal (9,2.1)
+insertarAlFinal (10,2.1)
+inicioCadena
+siguiente
+siguiente
+removerDeCadena
+inicioCadena
+siguiente
+infoCadena
+siguiente
+infoCadena
+inicioCadena
+removerDeCadena
+inicioCadena
+infoCadena
+finalCadena
+removerDeCadena
+finalCadena
+infoCadena
+removerDeCadena
+finalCadena
+infoCadena
+inicioCadena
+infoCadena
+esVaciaCadena
+removerDeCadena
+esVaciaCadena
+inicioCadena
+insertarAlFinal (6,2.1)
+esVaciaCadena
+inicioCadena
+infoCadena
+siguiente
+esLocalizador
+finalCadena
+infoCadena
+anterior
+esLocalizador
+Fin

@@ -1,0 +1,27 @@
+1>#  Implementar cambiarEnCadena, intercambiar.
+2>Segmento insertado después de loc.
+3>loc al inicio.
+4>Cambio.
+5>(3,2.50)(8,9.40)(9,2.60)
+6>loc al siguiente.
+7>Cambio.
+8>(3,2.50)(6,9.20)(9,2.60)
+9>loc al siguiente.
+10>Cambio.
+11>(3,2.50)(6,9.20)(7,2.50)
+12>Intercambio.
+13>(3,2.50)(6,9.20)(7,2.50)
+14>Intercambio.
+15>(3,2.50)(6,9.20)(7,2.50)
+16>loc al final.
+17>(7,2.50)
+18>Intercambio.
+19>(3,2.50)
+20>(7,2.50)(6,9.20)(3,2.50)
+21>Intercambio.
+22>(7,2.50)
+23>(3,2.50)(6,9.20)(7,2.50)
+24>Intercambio.
+25>(6,9.20)
+26>(3,2.50)(7,2.50)(6,9.20)
+27>Fin.

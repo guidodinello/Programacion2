@@ -1,0 +1,44 @@
+# Implementar esVaciaCadena, esFinalCadena, infoCadena, siguiente, insertarAlFinal
+esVaciaCadena
+esFinalCadena
+insertarAlFinal (1,2.1)
+esFinalCadena
+esVaciaCadena
+inicioCadena
+esFinalCadena
+infoCadena
+insertarAlFinal (3,0.3)
+esFinalCadena
+infoCadena
+siguiente
+esFinalCadena
+infoCadena
+insertarAlFinal (2,1.2)
+infoCadena
+siguiente
+infoCadena
+inicioCadena
+infoCadena
+siguiente
+infoCadena
+siguiente
+infoCadena
+insertarAlFinal (9,1.2)
+insertarAlFinal (8,1.2)
+insertarAlFinal (7,1.2)
+insertarAlFinal (6,1.2)
+insertarAlFinal (5,1.2)
+insertarAlFinal (4,1.2)
+siguiente
+infoCadena
+siguiente
+siguiente
+siguiente
+siguiente
+esFinalCadena
+siguiente
+esFinalCadena
+infoCadena
+inicioCadena
+infoCadena
+Fin

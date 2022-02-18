@@ -1,0 +1,12 @@
+1>#  Implementar copiarSegmento.
+2>
+3>Segmento insertado después de loc.
+4>(3,2.40)
+5>(3,2.40)
+6>loc al final.
+7>Segmento insertado después de loc.
+8>(3,2.40)
+9>(3,2.40)(5,3.40)(8,9.40)(9,2.60)
+10>(5,3.40)(8,9.40)
+11>(9,2.60)
+12>Fin.

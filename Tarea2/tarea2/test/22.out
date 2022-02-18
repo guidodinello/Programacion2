@@ -1,0 +1,18 @@
+1>#  Implementar ordenar.
+2>Quedó ordenada.
+3>Insertado al final.
+4>Quedó ordenada.
+5>Insertado al final.
+6>Quedó ordenada.
+7>(2,3.40)(6,2.40)
+8>Quedó ordenada.
+9>(2,3.40)(6,2.40)
+10>Insertado al final.
+11>Quedó ordenada.
+12>(2,3.40)(6,2.40)(9,3.40)
+13>loc al final.
+14>Segmento insertado después de loc.
+15>(2,3.40)(6,2.40)(9,3.40)(5,3.40)(11,9.40)(7,2.60)
+16>Quedó ordenada.
+17>(2,3.40)(5,3.40)(6,2.40)(7,2.60)(9,3.40)(11,9.40)
+18>Fin.

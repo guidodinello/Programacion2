@@ -1,0 +1,41 @@
+# Implementar esInicioCadena esLocalizador
+esInicioCadena
+esFinalCadena
+insertarAlFinal (10,2.1)
+esInicioCadena
+esFinalCadena
+inicioCadena
+esInicioCadena
+esFinalCadena
+finalCadena
+esInicioCadena
+esFinalCadena
+insertarAlFinal (9,2.1)
+esInicioCadena
+esFinalCadena
+finalCadena
+esInicioCadena
+esFinalCadena
+insertarAlFinal (8,2.1)
+esInicioCadena
+esFinalCadena
+inicioCadena
+esInicioCadena
+esFinalCadena
+anterior
+esLocalizador
+inicioCadena
+esLocalizador
+esInicioCadena
+esFinalCadena
+siguiente
+esLocalizador
+esInicioCadena
+esFinalCadena
+siguiente
+esLocalizador
+esInicioCadena
+esFinalCadena
+siguiente
+esLocalizador
+Fin

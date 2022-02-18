@@ -1,0 +1,12 @@
+# Implementar copiarSegmento
+copiarSegmento 1 1
+insertarSegmentoDespues 1 (3,2.4)
+copiarSegmento 1 1
+imprimirCadena
+finalCadena
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (9,2.6)
+copiarSegmento 1 1
+copiarSegmento 1 4
+copiarSegmento 2 3
+copiarSegmento 4 4
+Fin

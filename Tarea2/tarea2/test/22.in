@@ -1,0 +1,18 @@
+# Implementar ordenar
+ordenar
+insertarAlFinal (6,2.4)
+ordenar
+insertarAlFinal (2,3.4)
+ordenar
+imprimirCadena
+ordenar
+imprimirCadena
+insertarAlFinal (9,3.4)
+ordenar
+imprimirCadena
+finalCadena
+insertarSegmentoDespues 3 (5,3.4) (11,9.4) (7,2.6)
+imprimirCadena
+ordenar
+imprimirCadena
+Fin

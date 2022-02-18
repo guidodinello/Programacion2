@@ -1,0 +1,24 @@
+# Implementar cambiarTodos
+cambiarTodos 5 3
+imprimirCadena
+insertarAlFinal (5,1.3)
+cambiarTodos 4 3
+imprimirCadena
+cambiarTodos 5 3
+imprimirCadena
+insertarAlFinal (6,1.2)
+cambiarTodos 6 3
+imprimirCadena
+cambiarTodos 4 3
+imprimirCadena
+finalCadena
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (9,2.6)
+cambiarTodos 5 5
+imprimirCadena
+cambiarTodos 9 5
+imprimirCadena
+cambiarTodos 3 5
+imprimirCadena
+cambiarTodos 5 8
+imprimirCadena
+Fin

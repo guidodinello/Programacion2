@@ -1,0 +1,27 @@
+#insertarAlFinal (6,2.1)
+#inicioCadena
+#removerDeCadena
+#esVaciaCadena
+#Fin
+
+insertarAlFinal (6,2.1)
+insertarAlFinal (7,2.1)
+inicioCadena
+esInicioCadena
+esFinalCadena
+removerDeCadena
+Fin
+
+#insertarAlFinal (6,2.1)
+#insertarAlFinal (6,2.1)
+#finalCadena
+#removerDeCadena
+#Fin
+
+insertarAlFinal (6,2.1)
+insertarAlFinal (6,2.1)
+insertarAlFinal (6,2.1)
+inicioCadena
+siguiente
+removerDeCadena
+Fin

@@ -1,0 +1,18 @@
+1>#  Implementar insertarSegmentoDespues.
+2>Segmento insertado después de loc.
+3>
+4>Segmento insertado después de loc.
+5>(5,3.40)
+6>loc al final.
+7>Segmento insertado después de loc.
+8>(5,3.40)
+9>Removido.
+10>loc al inicio.
+11>Segmento insertado después de loc.
+12>(5,3.40)(8,9.40)(9,2.60)
+13>loc al inicio.
+14>Segmento insertado después de loc.
+15>(5,3.40)(8,9.40)(9,2.60)
+16>Segmento insertado después de loc.
+17>(5,3.40)(6,5.20)(7,0.90)(8,9.40)(9,2.60)
+18>Fin.

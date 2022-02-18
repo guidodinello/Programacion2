@@ -1,0 +1,18 @@
+# Implementar insertarSegmentoDespues
+insertarSegmentoDespues 0
+imprimirCadena
+insertarSegmentoDespues 1 (5,3.4)
+imprimirCadena
+finalCadena
+insertarSegmentoDespues 0
+imprimirCadena
+removerDeCadena
+inicioCadena
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (9,2.6)
+imprimirCadena
+inicioCadena
+insertarSegmentoDespues 0
+imprimirCadena
+insertarSegmentoDespues 2 (6,5.2) (7,0.9)
+imprimirCadena
+Fin

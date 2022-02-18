@@ -1,0 +1,8 @@
+# Implementar menorEnCadena
+insertarSegmentoDespues 4 (3,3.4) (8,9.4) (9,2.6) (5,1.4)
+inicioCadena
+menorEnCadena
+siguiente
+menorEnCadena
+menorEnCadena
+Fin

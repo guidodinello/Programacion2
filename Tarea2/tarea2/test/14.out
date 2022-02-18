@@ -1,0 +1,39 @@
+1>#  Implementar siguienteClave, anteriorClave.
+2>loc quedó no válido.
+3>Segmento insertado después de loc.
+4>loc al inicio.
+5>loc avanzó buscando 5.
+6>(5,3.40)
+7>loc avanzó buscando 8.
+8>(8,9.40)
+9>loc al inicio.
+10>loc avanzó buscando 6.
+11>(6,2.60)
+12>loc quedó no válido.
+13>loc no válido.
+14>loc al final.
+15>Segmento insertado después de loc.
+16>loc al inicio.
+17>loc al siguiente.
+18>loc avanzó buscando 5.
+19>(5,-3.20)
+20>loc al inicio.
+21>loc avanzó buscando 6.
+22>(6,2.60)
+23>loc avanzó buscando 6.
+24>(6,2.60)
+25>loc al siguiente.
+26>loc avanzó buscando 6.
+27>(6,-2.40)
+28>loc al final.
+29>loc retrocedió buscando 6.
+30>(6,-2.40)
+31>loc retrocedió buscando 8.
+32>(8,-9.20)
+33>loc retrocedió buscando 6.
+34>(6,2.60)
+35>loc retrocedió buscando 5.
+36>(5,3.40)
+37>loc quedó no válido.
+38>loc no válido.
+39>Fin.

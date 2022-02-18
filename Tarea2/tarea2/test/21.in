@@ -1,0 +1,9 @@
+# Implementar concatenar
+concatenar 0
+concatenar 3 (5,3.4) (8,9.4) (7,2.6)
+imprimirCadena
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (7,2.6)
+concatenar 0
+concatenar 3 (5,3.4) (8,9.4) (7,2.6)
+imprimirCadena
+Fin

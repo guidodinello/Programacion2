@@ -1,0 +1,32 @@
+1>#  Implmentar insertarAntes.
+2>Insertado al final.
+3>loc al inicio.
+4>Insertado antes de loc.
+5>(5,2.80)
+6>loc al inicio.
+7>(3,6.70)
+8>loc al siguiente.
+9>(5,2.80)
+10>Insertado antes de loc.
+11>(5,2.80)
+12>loc al inicio.
+13>(3,6.70)
+14>loc al siguiente.
+15>(4,3.10)
+16>Insertado antes de loc.
+17>(4,3.10)
+18>loc al inicio.
+19>(3,6.70)
+20>Insertado antes de loc.
+21>(3,6.70)
+22>loc al inicio.
+23>(1,7.20)
+24>loc al siguiente.
+25>(3,6.70)
+26>loc al siguiente.
+27>(8,2.90)
+28>loc al siguiente.
+29>(4,3.10)
+30>loc al siguiente.
+31>(5,2.80)
+32>Fin.

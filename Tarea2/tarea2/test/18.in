@@ -1,0 +1,28 @@
+# Implementar estaOrdenada
+estaOrdenadaPorNaturales
+insertarAlFinal (3,6.7)
+estaOrdenadaPorNaturales
+insertarAlFinal (5,3.7)
+estaOrdenadaPorNaturales
+insertarAlFinal (5,2.7)
+estaOrdenadaPorNaturales
+finalCadena
+insertarSegmentoDespues 3 (8,0.4) (9,3.1) (11,2.5)
+estaOrdenadaPorNaturales
+inicioCadena
+insertarAntes (6,3.7)
+estaOrdenadaPorNaturales
+inicioCadena
+removerDeCadena
+estaOrdenadaPorNaturales
+insertarAlFinal (6,3.7)
+estaOrdenadaPorNaturales
+finalCadena
+removerDeCadena
+finalCadena
+insertarAntes (6,3.7)
+estaOrdenadaPorNaturales
+anterior
+removerDeCadena
+estaOrdenadaPorNaturales
+Fin

@@ -1,0 +1,19 @@
+1>#  Implementar borrarSegmento.
+2>Segmento borrado.
+3>Segmento insertado después de loc.
+4>Segmento borrado.
+5>
+6>loc al inicio.
+7>Segmento insertado después de loc.
+8>Segmento borrado.
+9>(5,3.40)(7,3.50)(8,9.40)(9,2.60)
+10>Segmento borrado.
+11>(5,3.40)(7,3.50)
+12>Segmento borrado.
+13>(7,3.50)
+14>loc al inicio.
+15>Segmento insertado después de loc.
+16>(7,3.50)(5,3.40)(6,4.10)(7,3.50)(8,9.40)(9,2.60)
+17>Segmento borrado.
+18>
+19>Fin.

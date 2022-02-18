@@ -1,0 +1,17 @@
+# Implementar subCadena
+insertarAlFinal (6,3.5)
+subCadena 6 6
+insertarAlFinal (6,2.5)
+subCadena 6 6
+insertarAlFinal (7,2.5)
+subCadena 6 6
+imprimirCadena
+subCadena 7 7
+subCadena 6 7
+finalCadena
+insertarSegmentoDespues 3 (7,3.4) (8,9.4) (9,2.6)
+subCadena 6 7
+subCadena 7 9
+subCadena 6 9
+imprimirCadena
+Fin

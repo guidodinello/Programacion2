@@ -1,0 +1,41 @@
+1>#  Implementar esInicioCadena esLocalizador.
+2>loc no es incio de cad.
+3>loc no es final de cad.
+4>Insertado al final.
+5>loc no es incio de cad.
+6>loc no es final de cad.
+7>loc al inicio.
+8>loc es incio de cad.
+9>loc es final de cad.
+10>loc al final.
+11>loc es incio de cad.
+12>loc es final de cad.
+13>Insertado al final.
+14>loc es incio de cad.
+15>loc no es final de cad.
+16>loc al final.
+17>loc no es incio de cad.
+18>loc es final de cad.
+19>Insertado al final.
+20>loc no es incio de cad.
+21>loc no es final de cad.
+22>loc al inicio.
+23>loc es incio de cad.
+24>loc no es final de cad.
+25>loc al anterior.
+26>loc no válido.
+27>loc al inicio.
+28>loc válido.
+29>loc es incio de cad.
+30>loc no es final de cad.
+31>loc al siguiente.
+32>loc válido.
+33>loc no es incio de cad.
+34>loc no es final de cad.
+35>loc al siguiente.
+36>loc válido.
+37>loc no es incio de cad.
+38>loc es final de cad.
+39>loc al siguiente.
+40>loc no válido.
+41>Fin.

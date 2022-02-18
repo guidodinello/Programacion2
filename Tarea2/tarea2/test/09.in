@@ -1,0 +1,30 @@
+# Implementar localizadorEnCadena, precedeEnCadena
+localizadorEnCadena
+insertarAlFinal (5,3.2)
+localizadorEnCadena
+finalCadena
+localizadorEnCadena
+siguiente
+localizadorEnCadena
+precedeEnCadena 1
+finalCadena
+precedeEnCadena 1
+precedeEnCadena 0
+precedeEnCadena 2
+insertarAlFinal (5,3.4) 
+insertarAlFinal (8,9.4) 
+insertarAlFinal (9,2.6)
+precedeEnCadena 1
+precedeEnCadena 0
+precedeEnCadena 2
+siguiente
+precedeEnCadena 1
+precedeEnCadena 2
+precedeEnCadena 3
+finalCadena
+precedeEnCadena 4
+precedeEnCadena 5
+anterior
+precedeEnCadena 4
+precedeEnCadena 3
+Fin

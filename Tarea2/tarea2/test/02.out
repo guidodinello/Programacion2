@@ -1,0 +1,44 @@
+1>#  Implementar esVaciaCadena, esFinalCadena, infoCadena, siguiente, insertarAlFinal.
+2>cad vacia.
+3>loc no es final de cad.
+4>Insertado al final.
+5>loc no es final de cad.
+6>cad no vacia.
+7>loc al inicio.
+8>loc es final de cad.
+9>(1,2.10)
+10>Insertado al final.
+11>loc no es final de cad.
+12>(1,2.10)
+13>loc al siguiente.
+14>loc es final de cad.
+15>(3,0.30)
+16>Insertado al final.
+17>(3,0.30)
+18>loc al siguiente.
+19>(2,1.20)
+20>loc al inicio.
+21>(1,2.10)
+22>loc al siguiente.
+23>(3,0.30)
+24>loc al siguiente.
+25>(2,1.20)
+26>Insertado al final.
+27>Insertado al final.
+28>Insertado al final.
+29>Insertado al final.
+30>Insertado al final.
+31>Insertado al final.
+32>loc al siguiente.
+33>(9,1.20)
+34>loc al siguiente.
+35>loc al siguiente.
+36>loc al siguiente.
+37>loc al siguiente.
+38>loc no es final de cad.
+39>loc al siguiente.
+40>loc es final de cad.
+41>(4,1.20)
+42>loc al inicio.
+43>(1,2.10)
+44>Fin.

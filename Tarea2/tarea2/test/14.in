@@ -1,0 +1,39 @@
+# Implementar siguienteClave, anteriorClave
+siguienteClave 5
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (6,2.6)
+inicioCadena
+siguienteClave 5
+infoCadena
+siguienteClave 8
+infoCadena
+inicioCadena
+siguienteClave 6
+infoCadena
+siguienteClave 7
+esLocalizador
+finalCadena
+insertarSegmentoDespues 3 (5,-3.2) (8,-9.2) (6,-2.4)
+inicioCadena
+siguiente
+siguienteClave 5
+infoCadena
+inicioCadena
+siguienteClave 6
+infoCadena
+siguienteClave 6
+infoCadena
+siguiente
+siguienteClave 6
+infoCadena
+finalCadena
+anteriorClave 6
+infoCadena
+anteriorClave 8
+infoCadena
+anteriorClave 6
+infoCadena
+anteriorClave 5
+infoCadena
+anteriorClave 6
+esLocalizador
+Fin

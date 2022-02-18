@@ -1,0 +1,8 @@
+# Implementar pertenece
+pertenece 5
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (6,2.6)
+pertenece 5
+pertenece 6
+pertenece 8
+pertenece 9
+Fin

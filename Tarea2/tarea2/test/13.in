@@ -1,0 +1,27 @@
+# Implementar cambiarEnCadena, intercambiar
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (9,2.6)
+inicioCadena
+cambiarEnCadena (3,2.5)
+imprimirCadena
+siguiente
+cambiarEnCadena (6,9.2)
+imprimirCadena
+siguiente
+cambiarEnCadena (7,2.5)
+imprimirCadena
+intercambiar 1 1
+imprimirCadena
+intercambiar 3 3
+imprimirCadena
+finalCadena
+infoCadena
+intercambiar 3 1
+infoCadena
+imprimirCadena
+intercambiar 1 3
+infoCadena
+imprimirCadena
+intercambiar 2 3
+infoCadena
+imprimirCadena
+Fin

@@ -1,0 +1,14 @@
+# Implementar sonIgualesCadena
+sonIgualesCadena 0
+sonIgualesCadena 1 (5,3.6)
+insertarAlFinal (5,2.2)
+sonIgualesCadena 0
+sonIgualesCadena 1 (5,3.6)
+sonIgualesCadena 1 (5,2.2)
+finalCadena
+insertarSegmentoDespues 3 (5,3.4) (8,9.4) (7,2.6)
+sonIgualesCadena 4 (5,2.2) (5,3.4) (8,9.4) (7,2.6)
+sonIgualesCadena 3 (5,2.2) (5,3.4) (8,9.4)
+sonIgualesCadena 5 (5,2.2) (5,3.4) (8,9.4) (7,2.6) (6,2.4)
+sonIgualesCadena 4 (5,2.2) (5,3.4) (8,9.4) (7,2.5)
+Fin

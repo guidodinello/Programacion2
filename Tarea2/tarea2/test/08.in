@@ -1,0 +1,20 @@
+# Implementar kesimo
+kesimo 0
+kesimo 1
+insertarAlFinal (3,6.8)
+kesimo 0
+kesimo 1
+infoCadena
+kesimo 2
+finalCadena
+insertarAlFinal (5,3.4)
+insertarAlFinal (8,9.4)
+insertarAlFinal (9,2.6)
+kesimo 1
+infoCadena
+kesimo 2
+infoCadena
+kesimo 4
+infoCadena
+kesimo 5
+Fin
