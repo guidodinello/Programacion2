@@ -1,0 +1,334 @@
+1>#  Implementar estaEnColCadenas, insertarEnColCadenas del módulo colCadenas.
+2>0 no está en la cadena 1.
+3>Se insertó 0 en la cadena 1.
+4>0 no está en la cadena 0.
+5>0 está en la cadena 1.
+6>0 no está en la cadena 2.
+7>1 no está en la cadena 1.
+8>2 no está en la cadena 1.
+9>Se insertó 8 en la cadena 0.
+10>Se insertó 5 en la cadena 1.
+11>Se insertó 3 en la cadena 9.
+12>0 está en la cadena 1.
+13>3 no está en la cadena 1.
+14>5 está en la cadena 1.
+15>0 no está en la cadena 0.
+16>8 está en la cadena 0.
+17>0 no está en la cadena 9.
+18>3 está en la cadena 9.
+19>Se insertó 40 en la cadena 5.
+20>Se insertó 41 en la cadena 5.
+21>Se insertó 42 en la cadena 5.
+22>Se insertó 43 en la cadena 5.
+23>Se insertó 44 en la cadena 5.
+24>Se insertó 45 en la cadena 5.
+25>Se insertó 46 en la cadena 5.
+26>Se insertó 47 en la cadena 5.
+27>Se insertó 48 en la cadena 5.
+28>Se insertó 49 en la cadena 5.
+29>Se insertó 50 en la cadena 5.
+30>Se insertó 51 en la cadena 5.
+31>40 está en la cadena 5.
+32>51 está en la cadena 5.
+33>Estructuras reiniciadas.
+34>#  Implementar infoEnColCadenas, removerDeColCadenas del módulo colCadenas.
+35>Se insertó 0 en la cadena 1.
+36>Se insertó 8 en la cadena 0.
+37>Se insertó 5 en la cadena 1.
+38>Se insertó 3 en la cadena 9.
+39>La primera aparición de 0 en la cadena 1 es (0,2.00)
+40>La primera aparición de 8 en la cadena 0 es (8,6.00)
+41>La primera aparición de 5 en la cadena 1 es (5,1.00)
+42>La primera aparición de 3 en la cadena 9 es (3,7.00)
+43>Se insertó 0 en la cadena 1.
+44>La primera aparición de 0 en la cadena 1 es (0,3.00)
+45>Se removió la primera aparición de 0 de la cadena 1.
+46>La primera aparición de 0 en la cadena 1 es (0,2.00)
+47>La primera aparición de 5 en la cadena 1 es (5,1.00)
+48>Se insertó 5 en la cadena 1.
+49>Se removió la primera aparición de 5 de la cadena 1.
+50>La primera aparición de 5 en la cadena 1 es (5,1.00)
+51>Estructuras reiniciadas.
+52>#  Implementar estaVacioAvl, insertarEnAvl, buscarEnAvl, raizAvl, izqAvl y derAvl del modulo avl y avlABinario del módulo binario.
+53>Vacio.
+54>
+55>
+56>Insertado.
+57>
+(1,0.00)
+58>Insertado.
+59>
+-(2,0.00)
+(1,0.00)
+60>Insertado.
+61>Insertado.
+62>No vacío.
+63>
+(1,0.00)
+64>
+--(4,0.00)
+-(3,0.00)
+(2,0.00)
+-(1,0.00)
+65>
+-(4,0.00)
+(3,0.00)
+66>
+(4,0.00)
+67>2
+68>1
+69>3
+70>Insertado.
+71>
+--(6,0.00)
+-(4,0.00)
+--(3,0.00)
+(2,0.00)
+-(1,0.00)
+72>
+--(6,0.00)
+-(4,0.00)
+--(3,0.00)
+(2,0.00)
+-(1,0.00)
+73>Insertado.
+74>
+-(3,0.00)
+(2,0.00)
+-(1,0.00)
+75>
+--(9,0.00)
+-(6,0.00)
+(4,0.00)
+--(3,0.00)
+-(2,0.00)
+--(1,0.00)
+76>Insertado.
+77>
+--(9,0.00)
+-(6,0.00)
+--(5,0.00)
+(4,0.00)
+--(3,0.00)
+-(2,0.00)
+--(1,0.00)
+78>
+--(9,0.00)
+-(6,0.00)
+--(5,0.00)
+(4,0.00)
+--(3,0.00)
+-(2,0.00)
+--(1,0.00)
+79>Insertado.
+80>
+--(9,0.00)
+---(7,0.00)
+-(6,0.00)
+--(5,0.00)
+(4,0.00)
+--(3,0.00)
+-(2,0.00)
+--(1,0.00)
+81>Estructuras reiniciadas.
+82>#  Prueba de insertarEnAvl, alturaDeAvl, cantidadEnAvl, enOrdenAvl.
+83>Altura de avl: 0.
+84>Cantidad en avl: 0.
+85>No hay elementos en el avl.
+86>Insertado.
+87>Altura de avl: 1.
+88>Cantidad en avl: 1.
+89>40 
+90>Insertado.
+91>Insertado.
+92>Altura de avl: 2.
+93>60
+94>40
+95>80
+96>Insertado.
+97>Insertado.
+98>Altura de avl: 3.
+99>Cantidad en avl: 5.
+100>40 60 65 70 80 
+101>70
+102>Insertado.
+103>Altura de avl: 3.
+104>65
+105>60
+106>70
+107>Insertado.
+108>Insertado.
+109>Altura de avl: 4.
+110>Insertado.
+111>Insertado.
+112>Altura de avl: 4.
+113>60
+114>30
+115>65
+116>Insertado.
+117>Insertado.
+118>Altura de avl: 4.
+119>60
+120>35
+121>Insertado.
+122>Altura de avl: 4.
+123>Insertado.
+124>Insertado.
+125>Insertado.
+126>Insertado.
+127>Altura de avl: 5.
+128>Insertado.
+129>Altura de avl: 5.
+130>Cantidad en avl: 18.
+131>10 20 30 32 35 40 45 50 52 55 57 58 60 61 63 65 70 80 
+132>50
+133>35
+134>60
+135>Estructuras reiniciadas.
+136>#  Prueba de arregloAAvl.
+137>
+(50,0.00)
+138>Altura de avl: 1.
+139>50
+140>Izquierdo es vacío
+141>Derecho es vacío
+142>50 
+143>
+--(70,0.00)
+-(60,0.00)
+--(50,0.00)
+(40,0.00)
+--(30,0.00)
+-(20,0.00)
+--(10,0.00)
+144>
+--(70,0.00)
+-(60,0.00)
+--(50,0.00)
+(40,0.00)
+--(30,0.00)
+-(20,0.00)
+--(10,0.00)
+145>Altura de avl: 3.
+146>40
+147>20
+148>60
+149>10 20 30 40 50 60 70 
+150>
+---(80,0.00)
+--(70,0.00)
+-(60,0.00)
+--(50,0.00)
+(40,0.00)
+--(30,0.00)
+-(20,0.00)
+--(10,0.00)
+151>
+---(80,0.00)
+--(70,0.00)
+-(60,0.00)
+--(50,0.00)
+(40,0.00)
+--(30,0.00)
+-(20,0.00)
+--(10,0.00)
+152>Altura de avl: 4.
+153>40
+154>20
+155>60
+156>10 20 30 40 50 60 70 80 
+157>Estructuras reiniciadas.
+158>#  Implementar operaciones de conjunto e interseccionDeConjuntos de usoTads.
+159>Vacio.
+160>0.
+161>No hay elementos en el conjunto.
+162>No pertenece.
+163>Creado el singleton.
+164>mínimo:  5.
+165>máximo:  5.
+166>No vacío.
+167>1.
+168>5 
+169>Pertenece.
+170>Arreglo a conjunto con 6 elementos.
+171>mínimo:  2.
+172>máximo:  9.
+173>6.
+174>2 3 6 7 8 9 
+175>Union.
+176>9.
+177>1 2 3 4 5 6 7 8 9 
+178>Union.
+179>mínimo:  0.
+180>máximo:  10.
+181>11.
+182>0 1 2 3 4 5 6 7 8 9 10 
+183>Diferencia.
+184>mínimo:  0.
+185>máximo:  10.
+186>6.
+187>0 1 4 5 9 10 
+188>Intersección.
+189>0.
+190>No hay elementos en el conjunto.
+191>Diferencia.
+192>0.
+193>No hay elementos en el conjunto.
+194>Intersección.
+195>0.
+196>No hay elementos en el conjunto.
+197>Union.
+198>3.
+199>1 4 5 
+200>Estructuras reiniciadas.
+201>#  Prueba de unión, diferencia e intersección entre conjuntos vacíos y singleton .
+202>#  vacío - vacío.
+203>Union.
+204>No hay elementos en el conjunto.
+205>Diferencia.
+206>No hay elementos en el conjunto.
+207>Intersección.
+208>No hay elementos en el conjunto.
+209>#  vacío - singleton.
+210>Diferencia.
+211>No hay elementos en el conjunto.
+212>Intersección.
+213>No hay elementos en el conjunto.
+214>Union.
+215>5 
+216>#  singleton - vacío .
+217>Union.
+218>5 
+219>Diferencia.
+220>5 
+221>Intersección.
+222>No hay elementos en el conjunto.
+223>#  para volver a tener un singleton.
+224>Union.
+225>#  singleton - singleton.
+226>Union.
+227>6 
+228>Diferencia.
+229>6 
+230>Intersección.
+231>6 
+232>Diferencia.
+233>No hay elementos en el conjunto.
+234>Union.
+235>Intersección.
+236>No hay elementos en el conjunto.
+237>Union.
+238>Union.
+239>4 6 
+240>#  para volver a tener un singleton.
+241>Intersección.
+242>6 
+243>Diferencia.
+244>6 
+245>Intersección.
+246>No hay elementos en el conjunto.
+247>#  para volver a tener un singleton.
+248>Union.
+249>Union.
+250>6 8 
+251>Fin.

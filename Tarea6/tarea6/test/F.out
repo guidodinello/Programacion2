@@ -1,0 +1,36 @@
+1>Insertado.
+2>Insertado.
+3>Insertado.
+4>Arreglo a conjunto con 4 elementos.
+5>Union.
+6>Establecida la asociación.
+7>Eliminada la asociación.
+8>Establecida la asociación.
+9>Eliminada la asociación.
+10>Se insertó el elemento.
+11>Se insertó el elemento.
+12>Se insertó el elemento.
+13>p NO está llena.
+14>Altura de avl: 2.
+15>
+--(12,0.00)
+-(11,0.00)
+--(10,0.00)
+---(9,0.00)
+(8,0.00)
+--(7,0.00)
+---(6,0.00)
+-(5,0.00)
+---(4,0.00)
+--(3,0.00)
+---(2,0.00)
+----(1,0.00)
+16>5.
+17>Pertenece.
+18>Pertenece.
+19>2 3 4 6 9 
+20>No existe asociacion.
+21>Se actualizó el valor.
+22>3.00.
+23>4
+24>Fin.

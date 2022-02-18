@@ -1,0 +1,43 @@
+estaVaciaPila
+estaLlenaPila
+apilar 5
+apilar 5
+apilar 5
+apilar 5
+apilar 5
+apilar 5
+apilar 5
+apilar 5
+apilar 5
+apilar 6
+estaVacioAvl
+insertarEnAvl 10
+insertarEnAvl 12
+insertarEnAvl 8
+insertarEnAvl 6
+insertarEnAvl 7
+unionDeConjuntos 2 3 6
+arregloAConjunto 4 2 3 4 6
+asociarEnMap 5 15.0
+desasociarEnMap 5
+asociarEnMap 5 25.0
+insertarEnCP 4 4.0
+insertarEnCP 9 9.0
+insertarEnCP 3 3.0
+cima
+estaLlenaPila
+derAvl
+alturaDeAvl
+buscarEnAvl 20
+cardinalidad
+perteneceAConjunto 5
+perteneceAConjunto 6
+estaVacioConjunto
+iteradorDeConjunto
+existeAsociacionEnMap 5
+valorEnMap 5
+rangoCP
+prioridad 3
+actualizarEnCP 9 1.0
+prioritario
+Fin

@@ -1,0 +1,33 @@
+apilar 5
+encolar 2
+encolar 8
+encolar 1 
+estaVacioAvl
+insertarEnAvl 10
+insertarEnAvl 12
+insertarEnAvl 8
+insertarEnAvl 6
+insertarEnAvl 4
+unionDeConjuntos 2 3 6
+diferenciaDeConjuntos 4 2 3 4 6
+insertarEnCP 4 4.0
+insertarEnCP 9 9.0
+insertarEnCP 3 3.0
+desapilar
+estaVaciaPila
+desencolar
+desencolar
+frente
+raizAvl
+alturaDeAvl
+enOrdenAvl
+cardinalidad
+perteneceAConjunto 6
+estaVacioConjunto
+iteradorDeConjunto
+existeAsociacionEnMap 5
+prioridad 3
+actualizarEnCP 9 30.0
+eliminarPrioritario
+prioritario
+Fin

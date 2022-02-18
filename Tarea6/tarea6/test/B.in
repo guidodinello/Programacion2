@@ -1,0 +1,35 @@
+apilar 5
+apilar 6
+estaVaciaPila
+encolar 2 
+insertarEnAvl 10
+insertarEnAvl 8
+insertarEnAvl 12
+insertarEnAvl 14
+insertarEnAvl 16
+singleton 7
+unionDeConjuntos 2 3 6
+asociarEnMap 5 5.0
+asociarEnMap 15 5.0
+insertarEnCP 4 4.0
+insertarEnCP 9 9.0
+insertarEnCP 3 3.0
+desapilar
+cima
+frente
+desencolar
+izqAvl
+alturaDeAvl
+enOrdenAvl
+avlMin 3
+iteradorDeConjunto
+valorEnMap 5
+valorEnMap 15
+desasociarEnMap 5
+valorEnMap 15
+prioritario
+actualizarEnCP 3 30.0
+prioritario
+eliminarPrioritario
+estaVaciaCP
+Fin

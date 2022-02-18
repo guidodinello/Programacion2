@@ -1,0 +1,24 @@
+# Prueba de operaciones de mapping
+existeAsociacionEnMap 15
+asociarEnMap 12 1.2
+asociarEnMap 13 1.3
+asociarEnMap 14 1.4
+asociarEnMap 15 1.5
+existeAsociacionEnMap 15
+estaLlenoMap
+desasociarEnMap 15
+existeAsociacionEnMap 15
+asociarEnMap 15 1.5
+desasociarEnMap 15
+existeAsociacionEnMap 15
+asociarEnMap 16 1.6
+valorEnMap 12
+valorEnMap 13
+valorEnMap 14
+valorEnMap 16
+desasociarEnMap 12
+desasociarEnMap 13
+desasociarEnMap 14
+desasociarEnMap 16
+estaLlenoMap
+Fin

@@ -1,0 +1,251 @@
+# Implementar estaEnColCadenas, insertarEnColCadenas del módulo colCadenas
+estaEnColCadenas 0 1
+insertarEnColCadenas (0,2.0) 1
+estaEnColCadenas 0 0
+estaEnColCadenas 0 1
+estaEnColCadenas 0 2
+estaEnColCadenas 1 1
+estaEnColCadenas 2 1
+insertarEnColCadenas (8,6.0) 0
+insertarEnColCadenas (5,1.0) 1
+insertarEnColCadenas (3,7.0) 9
+estaEnColCadenas 0 1
+estaEnColCadenas 3 1
+estaEnColCadenas 5 1
+estaEnColCadenas 0 0
+estaEnColCadenas 8 0
+estaEnColCadenas 0 9
+estaEnColCadenas 3 9
+insertarEnColCadenas (40,3.0) 5
+insertarEnColCadenas (41,3.0) 5
+insertarEnColCadenas (42,3.0) 5
+insertarEnColCadenas (43,3.0) 5
+insertarEnColCadenas (44,3.0) 5
+insertarEnColCadenas (45,3.0) 5
+insertarEnColCadenas (46,3.0) 5
+insertarEnColCadenas (47,3.0) 5
+insertarEnColCadenas (48,3.0) 5
+insertarEnColCadenas (49,3.0) 5
+insertarEnColCadenas (50,3.0) 5
+insertarEnColCadenas (51,3.0) 5
+estaEnColCadenas 40 5
+estaEnColCadenas 51 5
+reiniciar
+# Implementar infoEnColCadenas, removerDeColCadenas del módulo colCadenas
+insertarEnColCadenas (0,2.0) 1
+insertarEnColCadenas (8,6.0) 0
+insertarEnColCadenas (5,1.0) 1
+insertarEnColCadenas (3,7.0) 9
+infoEnColCadenas 0 1
+infoEnColCadenas 8 0
+infoEnColCadenas 5 1
+infoEnColCadenas 3 9 
+insertarEnColCadenas (0,3.0) 1
+infoEnColCadenas 0 1
+removerDeColCadenas 0 1
+infoEnColCadenas 0 1
+infoEnColCadenas 5 1
+insertarEnColCadenas (5,1.0) 1
+removerDeColCadenas 5 1
+infoEnColCadenas 5 1
+reiniciar
+# Implementar estaVacioAvl, insertarEnAvl, buscarEnAvl, raizAvl, izqAvl y derAvl del modulo avl y avlABinario del módulo binario
+estaVacioAvl
+buscarEnAvl 1
+avlABinario
+insertarEnAvl 1
+avlABinario
+insertarEnAvl 2
+avlABinario
+insertarEnAvl 3
+insertarEnAvl 4
+estaVacioAvl
+buscarEnAvl 1
+buscarEnAvl 2
+buscarEnAvl 3
+buscarEnAvl 4
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 6
+avlABinario
+buscarEnAvl 2
+insertarEnAvl 9
+buscarEnAvl 2
+avlABinario
+insertarEnAvl 5
+avlABinario
+buscarEnAvl 4
+insertarEnAvl 7
+avlABinario
+reiniciar
+# Prueba de insertarEnAvl, alturaDeAvl, cantidadEnAvl, enOrdenAvl
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+insertarEnAvl 40
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+insertarEnAvl 60
+insertarEnAvl 80
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 70
+insertarEnAvl 65
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+derAvl
+insertarEnAvl 63
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 20
+insertarEnAvl 30
+alturaDeAvl
+insertarEnAvl 61
+insertarEnAvl 50
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+insertarEnAvl 35
+insertarEnAvl 32
+alturaDeAvl
+raizAvl
+izqAvl
+insertarEnAvl 55
+alturaDeAvl
+insertarEnAvl 10
+insertarEnAvl 45
+insertarEnAvl 57
+insertarEnAvl 52
+alturaDeAvl
+insertarEnAvl 58
+alturaDeAvl
+cantidadEnAvl
+enOrdenAvl
+raizAvl
+izqAvl
+derAvl
+reiniciar
+# Prueba de arregloAAvl
+arregloAAvl 1 50
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+enOrdenAvl
+arregloAAvl 7 10 20 30 40 50 60 70
+buscarEnAvl 40
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+enOrdenAvl
+arregloAAvl 8 10 20 30 40 50 60 70 80
+buscarEnAvl 40
+alturaDeAvl
+raizAvl
+izqAvl
+derAvl
+enOrdenAvl
+reiniciar
+# Implementar operaciones de conjunto e interseccionDeConjuntos de usoTads
+estaVacioConjunto
+cardinalidad
+iteradorDeConjunto
+perteneceAConjunto 5
+singleton 5
+minimo
+maximo
+estaVacioConjunto
+cardinalidad
+iteradorDeConjunto
+perteneceAConjunto 5
+arregloAConjunto 6 2 3 6 7 8 9
+minimo
+maximo
+cardinalidad
+iteradorDeConjunto
+unionDeConjuntos 3 1 4 5
+cardinalidad
+iteradorDeConjunto
+unionDeConjuntos 3 0 4 10
+minimo
+maximo
+cardinalidad
+iteradorDeConjunto
+diferenciaDeConjuntos  6 2 3 6 7 8 11
+minimo
+maximo
+cardinalidad
+iteradorDeConjunto
+interseccionDeConjuntos  6 2 3 6 7 8 11
+cardinalidad
+iteradorDeConjunto
+diferenciaDeConjuntos  6 2 3 6 7 8 11
+cardinalidad
+iteradorDeConjunto
+interseccionDeConjuntos  6 2 3 6 7 8 11
+cardinalidad
+iteradorDeConjunto
+unionDeConjuntos 3 1 4 5
+cardinalidad
+iteradorDeConjunto
+reiniciar
+# Prueba de unión, diferencia e intersección entre conjuntos vacíos y singleton 
+# vacío - vacío
+unionDeConjuntos 0
+iteradorDeConjunto
+diferenciaDeConjuntos 0
+iteradorDeConjunto
+interseccionDeConjuntos 0
+iteradorDeConjunto
+# vacío - singleton
+diferenciaDeConjuntos 1 3
+iteradorDeConjunto
+interseccionDeConjuntos 1 4
+iteradorDeConjunto
+unionDeConjuntos 1 5
+iteradorDeConjunto
+# singleton - vacío 
+unionDeConjuntos 0
+iteradorDeConjunto
+diferenciaDeConjuntos 0
+iteradorDeConjunto
+interseccionDeConjuntos 0
+iteradorDeConjunto
+# para volver a tener un singleton
+unionDeConjuntos 1 6
+# singleton - singleton
+unionDeConjuntos 1 6
+iteradorDeConjunto
+diferenciaDeConjuntos 1 3
+iteradorDeConjunto
+interseccionDeConjuntos 1 6
+iteradorDeConjunto
+diferenciaDeConjuntos 1 6
+iteradorDeConjunto
+unionDeConjuntos 1 6
+interseccionDeConjuntos 1 3
+iteradorDeConjunto
+unionDeConjuntos 1 6
+unionDeConjuntos 1 4
+iteradorDeConjunto
+# para volver a tener un singleton
+interseccionDeConjuntos 1 6
+iteradorDeConjunto
+diferenciaDeConjuntos 1 8
+iteradorDeConjunto
+interseccionDeConjuntos 1 8
+iteradorDeConjunto
+# para volver a tener un singleton
+unionDeConjuntos 1 6
+unionDeConjuntos 1 8
+iteradorDeConjunto
+Fin
