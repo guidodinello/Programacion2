@@ -1,0 +1,25 @@
+1>#  Implementar imprimirPorNiveles.
+2>
+3>Insertado.
+4>5 
+5>Insertado.
+6>8 | 5 
+7>Insertado.
+8>2 8 | 5 
+9>Insertado.
+10>6 | 2 8 | 5 
+11>Insertado.
+12>1 6 | 2 8 | 5 
+13>Insertado.
+14>7 | 1 6 | 2 8 | 5 
+15>Insertado.
+16>Insertado.
+17>Insertado.
+18>Insertado.
+19>Insertado.
+20>Insertado.
+21>Insertado.
+22>Insertado.
+23>Insertado.
+24>15 25 75 85 | 20 80 | 7 10 90 | 1 6 70 | 2 8 | 5 
+25>Fin.

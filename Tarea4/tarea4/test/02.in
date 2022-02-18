@@ -1,0 +1,22 @@
+# Implementar enAlguno
+enAlguno 0
+enAlguno 1 4
+enAlguno 2 4 8
+enAlguno 5 1 3 7 8 9
+reiniciar
+agregarAIterador 2
+enAlguno 0
+enAlguno 1 4
+enAlguno 2 4 8
+enAlguno 5 1 3 7 8 9
+enAlguno 1 2
+reiniciar
+agregarAIterador 4
+agregarAIterador 7
+agregarAIterador 9
+enAlguno 0
+enAlguno 1 4
+enAlguno 2 4 8
+enAlguno 5 1 3 7 8 9
+enAlguno 6 1 3 7 8 9 11
+Fin

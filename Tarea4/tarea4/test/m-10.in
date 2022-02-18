@@ -1,0 +1,23 @@
+# 
+insertarEnBinario (3,3.3)
+insertarEnBinario (6,6.6)
+insertarEnBinario (2,2.2)
+insertarEnBinario (7,7.7)
+insertarEnBinario (9,9.9)
+insertarEnBinario (8,8.8)
+linealizacion
+recorridaPorNiveles
+binarioBalanceado 6 10 20 30 40 50 60
+linealizacion
+recorridaPorNiveles
+enAlguno 5 1 3 7 8 9
+soloEnA 5 1 3 7 8 9
+reiniciar
+agregarAIterador 1
+agregarAIterador 2
+agregarAIterador 5
+agregarAIterador 8
+enAlguno 5 1 3 7 8 9
+soloEnA 5 1 3 7 8 9
+Fin
+

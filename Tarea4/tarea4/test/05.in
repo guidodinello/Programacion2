@@ -1,0 +1,28 @@
+# Implementar operaciones de colaBinarios
+insertarEnBinario (25,1.0) 
+insertarEnBinario (15,1.0) 
+insertarEnBinario (5,1.0) 
+insertarEnBinario (45,1.0) 
+insertarEnBinario (35,1.0) 
+estaVaciaColaBinarios
+encolar 5
+estaVaciaColaBinarios
+frente
+encolar 4
+estaVaciaColaBinarios
+frente
+encolar 25
+encolar 50
+estaVaciaColaBinarios
+frente
+desencolar
+frente
+estaVaciaColaBinarios
+desencolar
+frente
+desencolar
+frente
+estaVaciaColaBinarios
+desencolar
+estaVaciaColaBinarios
+Fin

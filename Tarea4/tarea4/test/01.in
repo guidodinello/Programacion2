@@ -1,0 +1,21 @@
+# Implementar structs, las operaciones de crear y liberar, cantidadEnIterador
+cantidadEnIterador
+# comando que reinicia las estructruras (no es reiniciarIterador)
+reiniciar
+agregarAIterador 3
+cantidadEnIterador
+reiniciar
+agregarAIterador 3
+agregarAIterador 3
+cantidadEnIterador
+reiniciar
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+agregarAIterador 3
+cantidadEnIterador
+Fin

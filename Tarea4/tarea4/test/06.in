@@ -1,0 +1,25 @@
+# Implementar imprimirPorNiveles
+recorridaPorNiveles
+insertarEnBinario (5,1.0)
+recorridaPorNiveles
+insertarEnBinario (8,1.0)
+recorridaPorNiveles
+insertarEnBinario (2,1.0)
+recorridaPorNiveles
+insertarEnBinario (6,1.0)
+recorridaPorNiveles
+insertarEnBinario (1,1.0)
+recorridaPorNiveles
+insertarEnBinario (7,1.0)
+recorridaPorNiveles
+insertarEnBinario (70,1.0)
+insertarEnBinario (10,1.0)
+insertarEnBinario (20,1.0)
+insertarEnBinario (90,1.0)
+insertarEnBinario (80,1.0)
+insertarEnBinario (15,1.0)
+insertarEnBinario (25,1.0)
+insertarEnBinario (75,1.0)
+insertarEnBinario (85,1.0)
+recorridaPorNiveles
+Fin

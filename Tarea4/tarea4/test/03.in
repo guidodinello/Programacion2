@@ -1,0 +1,24 @@
+# Implementar soloEnA. 
+# El iterador 'a' es el parámetro 'it'. 
+# El iterador 'b' es el que se lee desde la entrada estándar. 
+soloEnA 0
+soloEnA 1 4
+soloEnA 2 4 8
+soloEnA 5 1 3 7 8 9
+reiniciar
+agregarAIterador 2
+soloEnA 0
+soloEnA 1 4
+soloEnA 2 4 8
+soloEnA 5 1 3 7 8 9
+soloEnA 1 2
+reiniciar
+agregarAIterador 4
+agregarAIterador 7
+agregarAIterador 9
+soloEnA 0
+soloEnA 1 4
+soloEnA 2 4 8
+soloEnA 5 1 3 7 8 9
+soloEnA 6 1 4 7 8 9 11
+Fin
